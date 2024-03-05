@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976884403310",
+    "project_id": "chat-app-add62",
+    "storage_bucket": "chat-app-add62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976884403310:android:751eb2e5fe9a2413ab6a7f",
+        "android_client_info": {
+          "package_name": "com.antoniocostadossantos.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00cEGsorgn3Y6jHaXV73h4S8NPKNByKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
